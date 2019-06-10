@@ -6,5 +6,5 @@
   * [安装-依赖包](pei-zhi-huan-jing/untitled.md)
 * [OpenCV](opencv/README.md)
   * [简介](opencv/jian-jie.md)
-  * [图片操作](opencv/du-qu-tu-pian.md)
+  * [图片基本的操作](opencv/du-qu-tu-pian.md)
 

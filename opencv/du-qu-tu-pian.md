@@ -90,6 +90,8 @@ cv2.imwrite('xx,jpg',img)
 
 ## 4.案例
 
+代码和图片可在此处[下载](https://github.com/ozheng1993/ComputerVisionFromIntroToGiveup/tree/master/source/%20%E5%9B%BE%E7%89%87%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
+
 展示统一文件路径下的cat.jpg的文件
 
 * 打开Anaconda

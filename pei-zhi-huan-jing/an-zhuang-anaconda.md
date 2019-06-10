@@ -4,11 +4,11 @@ description: Anaconda是Python的环境（environment）和包（package）的�
 
 # 安装-Anaconda
 
-## 安装ython虚拟环境
+## 安装Python虚拟环境
 
 ### 第一步：下载Anaconda
 
-进入Anaconda官网，下载对应操作系统的naconda版本（在此我们推荐下载Python 3.7 版本）
+进入Anaconda官网，下载对应操作系统的Anaconda版本（在此我们推荐下载Python 3.7 版本）
 
 ```
 https://www.anaconda.com/distribution/

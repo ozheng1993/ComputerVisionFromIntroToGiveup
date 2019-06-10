@@ -7,6 +7,9 @@
 * [OpenCV](opencv/README.md)
   * [简介](opencv/jian-jie.md)
   * [图片基本的操作](opencv/du-qu-tu-pian.md)
-* [深度学习（Deeplearning）](shen-du-xue-xi-deeplearning.md)
+* [深度学习（Deeplearning）](shen-du-xue-xi-deeplearning/README.md)
+  * [FPN](shen-du-xue-xi-deeplearning/fpn.md)
+  * [maskrcnn](shen-du-xue-xi-deeplearning/maskrcnn.md)
+  * [yolo](shen-du-xue-xi-deeplearning/yolo.md)
 * [Untitled](untitled.md)
 

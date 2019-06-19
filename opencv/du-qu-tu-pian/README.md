@@ -2,7 +2,7 @@
 description: 如何在OpenCV中读取，展示和保存图片
 ---
 
-# 图片基本的操作
+# 图片的读取与展示
 
 ## 1.读取图片
 
@@ -122,7 +122,7 @@ cv2.destroyAllWindows()
 
 输出结果：
 
-![](../.gitbook/assets/screen-shot-2019-06-09-at-8.47.39-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-06-09-at-8.47.39-pm.png)
 
 ### 案例二：使用Matplotlib
 
@@ -136,5 +136,5 @@ plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
 plt.show()
 ```
 
-![](../.gitbook/assets/screen-shot-2019-06-09-at-9.03.39-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-06-09-at-9.03.39-pm.png)
 

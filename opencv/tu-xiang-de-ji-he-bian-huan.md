@@ -140,7 +140,7 @@ plt.subplot(122),plt.imshow(dst),plt.title('Output')
 plt.show()
 ```
 
-![](../.gitbook/assets/screen-shot-2019-07-08-at-1.53.51-am.png)
+![](../.gitbook/assets/screen-shot-2019-07-08-at-10.02.25-pm.png)
 
 ## 透视变换（Perspective Transformation）
 
@@ -169,7 +169,7 @@ plt.subplot(122),plt.imshow(dst),plt.title('Output')
 plt.show()
 ```
 
-![](../.gitbook/assets/screen-shot-2019-07-08-at-2.08.59-am.png)
+![](../.gitbook/assets/screen-shot-2019-07-08-at-10.02.50-pm.png)
 
 ## 单应性变换（Homography Tranformation）
 
@@ -225,6 +225,8 @@ cv2.destroyAllWindows()
 输出：
 
 ![output](../.gitbook/assets/screen-shot-2019-07-08-at-2.46.41-am.png)
+
+[代码下载](https://github.com/ozheng1993/ComputerVisionFromIntroToGiveup/tree/master/source/%E5%9B%BE%E5%83%8F%E7%9A%84%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2)
 
 
 

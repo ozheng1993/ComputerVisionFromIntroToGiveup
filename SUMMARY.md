@@ -5,7 +5,7 @@
   * [安装-Anaconda](pei-zhi-huan-jing/an-zhuang-anaconda.md)
   * [安装-依赖包](pei-zhi-huan-jing/untitled.md)
   * [安装-验证](pei-zhi-huan-jing/an-zhuang-yan-zheng.md)
-  * [安装CUDA](pei-zhi-huan-jing/an-zhuang-cuda.md)
+  * [安装-CUDA](pei-zhi-huan-jing/an-zhuang-cuda.md)
 * [OpenCV](opencv/README.md)
   * [OpenCV简介](opencv/jian-jie.md)
   * [图片的读取与展示](opencv/du-qu-tu-pian.md)

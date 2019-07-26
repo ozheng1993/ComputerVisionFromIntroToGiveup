@@ -30,7 +30,7 @@ sudo apt-get install --no-install-recommends nvidia-driver-418
 
 ```
 
-在命令行输入nvidia-smi验证显卡驱动如果安装成功则会看到如下界面
+重启电脑后，在命令行输入nvidia-smi验证显卡驱动如果安装成功则会看到如下界面
 
 ![](../.gitbook/assets/screen-shot-2019-07-25-at-11.04.00-pm.png)
 

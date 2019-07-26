@@ -1,3 +1,9 @@
+---
+description: >-
+  CUDA即Compute Unified Device
+  Architecture，是NVidia利用GPU平台进行通用并行计算的一种架构，它包含了CUDA指令集架。随着显卡的发展，GPU在计算上已经超越了一般的的CPU。因此NVidia也推出CUDA，让显卡可以用于并行计算）
+---
+
 # 安装-CUDA
 
 ## 1.需求

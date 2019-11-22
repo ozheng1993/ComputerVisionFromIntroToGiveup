@@ -26,7 +26,11 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
+![](../.gitbook/assets/screen-shot-2019-10-20-at-9.56.46-am.png)
+
 ## MOG背景差法
+
+MOG2抗光干扰比较强，比MOG好，一般会用MOG2
 
 ```python
 import numpy as np
@@ -43,6 +47,8 @@ while(1):
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+![](../.gitbook/assets/screen-shot-2019-10-20-at-9.57.49-am.png)
 
 ## MOG2背景差法
 
@@ -61,6 +67,8 @@ while(1):
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+![](../.gitbook/assets/screen-shot-2019-10-20-at-10.02.48-am.png)
 
 ## 中位帧参照法
 
@@ -86,6 +94,8 @@ medianFrame = np.median(frames, axis=0).astype(dtype=np.uint8)
 cv2.imshow('frame', medianFrame)
 cv2.waitKey(1)
 ```
+
+![](../.gitbook/assets/screen-shot-2019-10-20-at-10.09.22-am.png)
 
 ```python
 import numpy as np
@@ -126,4 +136,6 @@ while(ret):
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+![](../.gitbook/assets/screen-shot-2019-10-20-at-10.11.47-am.png)
 

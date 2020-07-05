@@ -45,7 +45,7 @@ cv2.destroyAllWindows()
 
 ```
 
-![&#x6D4B;&#x8BD5;&#x56FE;&#x7247;](../.gitbook/assets/capture.png)
+![](../.gitbook/assets/capture.png)
 
 ![&#x5F85;&#x4FEE;&#x590D;&#x533A;&#x57DF;&#x8499;&#x7248;](../.gitbook/assets/mask.png)
 
@@ -71,4 +71,6 @@ while(cap.isOpened()):
 cap.release()
 cv2.destroyAllWindows()
 ```
+
+
 

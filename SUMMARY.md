@@ -7,6 +7,7 @@
   * [安装-验证](pei-zhi-huan-jing/an-zhuang-yan-zheng.md)
   * [安装-CUDA](pei-zhi-huan-jing/an-zhuang-cuda.md)
 * [OpenCV](opencv/README.md)
+  * [图像修复（inpainting）](opencv/tu-xiang-xiu-fu-inpainting.md)
   * [OpenCV简介](opencv/jian-jie.md)
   * [图片的读取与展示](opencv/du-qu-tu-pian.md)
   * [基本的画图操作](opencv/ji-ben-de-hua-tu-cao-zuo.md)

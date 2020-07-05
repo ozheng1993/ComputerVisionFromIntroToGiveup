@@ -59,7 +59,7 @@ cv2.destroyAllWindows()
 import numpy as np
 import cv2
 
-cap = cv2.VideoCapture('./USDJI_0037stab.mov')
+cap = cv2.VideoCapture('视频路径')
 mask = cv2.imread('mask.png',0)
 while(cap.isOpened()):
 	ret, frame = cap.read()

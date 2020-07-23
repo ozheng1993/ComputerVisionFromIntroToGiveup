@@ -8,7 +8,7 @@ description: 一入视觉深似乎海
 
         
 ## Citation
-    @article{oyxcvtool,
+    @article{oyxpythoncvtool,
       Author = {Ou Zheng ,Yina Wu,Xin Gu},
       Title = {Python implementation of computer vision tools},
       Journal = {https://github.com/ozheng1993/ComputerVisionFromIntroToGiveup},

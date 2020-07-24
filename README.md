@@ -8,7 +8,7 @@ description: 一入视觉深似乎海
 
         
 ## Citation
-    @misc{ouzheng1993CVFTG,
+    @article{ouzheng1993CVFTG,
       Author = {Ou Zheng and Yina Wu and Xin Gu},
       Title = {Python implementation of computer vision tools},
       howpublished = {\url{https://github.com/ozheng1993/ComputerVisionFromIntroToGiveup}},

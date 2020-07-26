@@ -33,7 +33,7 @@ dst = cv2.inpaint\(待修复图片,待修复区域蒙版，权重,修复方式\)
 import numpy as np
 import cv2
 #读取待修复图片
-img = cv2.imread('messi_2.jpg')
+img = cv2.imread('input.jpg')
 #读取需要修复区域的蒙版（黑底，白色为待修复区域）
 mask = cv2.imread('mask2.png',0)
 #调取图像修复函数
